@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/aladdin/.dotnet/store/|arch|/|tfm|",
+      "/home/aladdin/.nuget/packages"
+    ]
+  }
+}

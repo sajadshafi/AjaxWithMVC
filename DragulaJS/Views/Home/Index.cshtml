@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+    <div id="dragula-container" class="row dragula-container d-flex justify-content-around">
+
+        <div id="dragable1" class="card px-0 col-3 mt-2">
+            <div class="card-header">
+                <div class="d-inline-block ml-auto mb-0 float-right right-menu">
+                    <span><input type="checkbox" class="js-switch" id="switch1" data-refresh-id="refresh1" checked /></span>
+                    <span id="refresh1" data-ajax-id="0" class="fa fa-redo-alt refresh"></span>
+                    <span class="drag-icon fa fa-arrows-alt"></span>
+                </div>
+            </div>
+            <img class="card-img-top mx-auto" src="~/images/img_avatar.png" alt="Card image" style="width:100px">
+            <div class="card-body">
+                <h4 class="card-title"><span id="employeeId1">1 </span> <span id="employeeName1"></span></h4>
+                <p class="card-text"><span id="employeeDetails1"></span></p>
+            </div>
+        </div>
+
+        <div id="dragable2" class="card px-0 col-3 mt-2">
+            <div class="card-header">
+                <div class="d-inline-block ml-auto mb-0 float-right right-menu">
+                    <span><input type="checkbox" class="js-switch" id="switch2" data-refresh-id="refresh2" checked /></span>
+                    <span id="refresh2" data-ajax-id="1" class="fa fa-redo-alt refresh"></span>
+                    <span class="drag-icon fa fa-arrows-alt"></span>
+                </div>
+            </div>
+            <img class="card-img-top mx-auto" src="~/images/img_avatar.png" alt="Card image" style="width:100px">
+            <div class="card-body">
+                <h4 class="card-title"><span id="employeeId2">2 </span> <span id="employeeName2"></span></h4>
+                <p class="card-text"><span id="employeeDetails2"></span></p>
+            </div>
+        </div>
+
+        <div id="dragable3" class="card px-0 col-3 mt-2">
+            <div class="card-header">
+                <div class="d-inline-block ml-auto mb-0 float-right right-menu">
+                    <span><input type="checkbox" class="js-switch" id="switch3" data-refresh-id="refresh3" checked /></span>
+                    <span id="refresh3" data-ajax-id="2" class="fa fa-redo-alt refresh"></span>
+                    <span class="drag-icon fa fa-arrows-alt"></span>
+                </div>
+            </div>
+            <img class="card-img-top mx-auto" src="~/images/img_avatar.png" alt="Card image" style="width:100px">
+            <div class="card-body">
+                <h4 class="card-title"><span id="employeeId3">3 </span> <span id="employeeName3"></span></h4>
+                <p class="card-text"><span id="employeeDetails3"></span></p>
+            </div>
+        </div>
+    </div>

@@ -1,0 +1,38 @@
+﻿.card-text {
+    font-size: .8rem;
+}
+
+.card-title {
+    font-size: 1.2rem;
+}
+
+.drag-icon {
+    padding: .3rem;
+}
+
+.drag-icon:hover,
+.refresh:hover,
+.switch:hover {
+    cursor: pointer;
+    color: darkblue;
+}
+
+.card-header {
+    padding: .5rem 1rem !important;
+}
+
+.refresh {
+    padding: .3rem;
+}
+
+switch {
+
+}
+
+.fa-toggle-off {
+    color: #696969;
+}
+
+.disabled {
+    color: #696969;
+}

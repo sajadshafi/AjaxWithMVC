@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "TVdmgla5gqiK97mgElRZ4e/zvTthYi+bmULby4o8FJLpqSbLxnlh7yJF4oxhkSPesnJksKZMpw643JdRpch5OQ==",
+  "success": true,
+  "projectFilePath": "/home/aladdin/Documents/Work/AlMuqeet/DragulaJS_v2/DragulaJS/DragulaJS.csproj",
+  "expectedPackageFiles": [
+    "/home/aladdin/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/home/aladdin/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
